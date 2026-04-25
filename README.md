@@ -7,3 +7,5 @@ https://jiaozheng.pages.dev/
 GitHub Pages 镜像：
 
 https://xmrhapsody0807.github.io/jiaozheng/
+
+tips:后面有api了才会接api先用离线数据
